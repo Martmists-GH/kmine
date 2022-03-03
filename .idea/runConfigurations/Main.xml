@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="com.martmists.kmine.Main" />
+    <module name="kmine.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
